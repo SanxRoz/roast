@@ -1,12 +1,12 @@
-# Just Prompt
+# Jst Roast
 
-Generate your own prompts with Additive Prompting made by @nickfloats, this app is based on Flask, HTML, Javascript and CSS
+roast the copy of your website in seconds and get a recommendation, this app is based on Flask, HTML, Javascript and CSS
 
 Take your prompts to the next level now!!
 
-Check the [demo](https://just-prompt.vercel.app/)
+Check the [demo](https://jst-roast.vercel.app/)
 
-![Just Code](./api/static/Prompt.png)
+![Just Code](./api/static/Roast.png)
 
 ## Contact
 
@@ -16,7 +16,7 @@ I'd love to see what you build with this code - Looking forward to what you buil
 
 ## How it Works
 
-Just ask me provides a simple, minimal and fully functional chat that you can use to build your own AI app powered by OpenAI.
+Jst Roast me provides a simple, minimal and fully functional chat that you can use to build your own AI app powered by OpenAI.
 
 Just plug and play, it has everything you need to start deploying.
 
@@ -29,7 +29,7 @@ To modify your prompt or API go to `api/index.py`.
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/SanxRoz/prompt.git
+git clone https://github.com/SanxRoz/roast.git
 ```
 
 **2. Install Dependencies**
@@ -54,7 +54,3 @@ python index.py
 ```
 
 Your Flask application is now available at `http://localhost:3000`.
-
-## One-Click Deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FSanxRoz%2Fask&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=just-ask&framework=other&totalProjects=1&remainingProjects=1)
