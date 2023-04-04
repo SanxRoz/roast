@@ -30,7 +30,7 @@ def submit():
     text = text.replace('\n', '')
     
     openai.api_key = f"{open_ai_cookie}"
-    completion = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=[{"role": "system", "content": 'Generate a humorous and entertaining roas of the text of a website that I provide, a roast that will make me laugh out loud!. No more than 400 characters'},
+    completion = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=[{"role": "system", "content": 'Generate a humorous and entertaining roas of the text of a website that I provide, a roast that will make me laugh out loud!. No more than 400 characters. Give me 1 recommendation to improve the website'},
                                                                                {"role": "user", "content": f"{text}"}],stream=True)
     def generate():
         for chunk in completion:
