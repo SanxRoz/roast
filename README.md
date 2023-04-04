@@ -29,7 +29,7 @@ To modify your prompt or API go to `api/index.py`.
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/SanxRoz/prompt.git
+git clone https://github.com/SanxRoz/roast.git
 ```
 
 **2. Install Dependencies**
