@@ -4,7 +4,7 @@ Generate your own prompts with Additive Prompting made by @nickfloats, this app 
 
 Take your prompts to the next level now!!
 
-Check the [demo](https://just-prompt.vercel.app/)
+Check the [demo](https://jst-roast.vercel.app/)
 
 ![Just Code](./api/static/Roast.png)
 
@@ -54,7 +54,3 @@ python index.py
 ```
 
 Your Flask application is now available at `http://localhost:3000`.
-
-## One-Click Deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FSanxRoz%2Fask&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=just-ask&framework=other&totalProjects=1&remainingProjects=1)
