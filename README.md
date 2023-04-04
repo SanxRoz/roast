@@ -1,6 +1,6 @@
-# Just Prompt
+# Jst Roast
 
-Generate your own prompts with Additive Prompting made by @nickfloats, this app is based on Flask, HTML, Javascript and CSS
+roast the copy of your website in seconds and get a recommendation, this app is based on Flask, HTML, Javascript and CSS
 
 Take your prompts to the next level now!!
 
@@ -16,7 +16,7 @@ I'd love to see what you build with this code - Looking forward to what you buil
 
 ## How it Works
 
-Just ask me provides a simple, minimal and fully functional chat that you can use to build your own AI app powered by OpenAI.
+Jst Roast me provides a simple, minimal and fully functional chat that you can use to build your own AI app powered by OpenAI.
 
 Just plug and play, it has everything you need to start deploying.
 
