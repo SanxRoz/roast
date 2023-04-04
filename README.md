@@ -6,7 +6,7 @@ Take your prompts to the next level now!!
 
 Check the [demo](https://just-prompt.vercel.app/)
 
-![Just Code](./api/static/Prompt.png)
+![Just Code](./api/static/Roast.png)
 
 ## Contact
 
